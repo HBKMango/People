@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pruebas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="the_mail_address_is">The mail address is:</string>
+    <string name="load_new_user">Load New user</string>
+    <string name="the_name_is">The name is:</string>
+    <string name="la_direcci_n_es">The address is:</string>
+    <string name="the_password_is">the password is:</string>
+</resources>
